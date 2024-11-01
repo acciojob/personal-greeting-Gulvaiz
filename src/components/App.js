@@ -1,7 +1,7 @@
 
 import React, { useState } from "react";
 import './../styles/App.css';
-import InputName from "./Name.jsx";
+
 
 const App = () => {
 
